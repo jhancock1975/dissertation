@@ -1,0 +1,146 @@
+* Dissertation
+data on publications to be compiled in PhD dissertation
+
+* publication list
+
+  manuscript location and name of conference precede bibtex data on publication
+
+  Conference: BDS / CISOSE 22
+@inproceedings{hancock2022effects,
+  title={The Effects of Random Undersampling for Big Data Medicare Fraud Detection},
+  author={Hancock, John and Khoshgoftaar, Taghi M and Johnson, Justin M},
+  booktitle={2022 IEEE International Conference on Service-Oriented System Engineering (SOSE), 2022},
+  year={2022},
+  organization={IEEE}
+}
+
+
+Conference: ISSAT 22
+@inproceedings{hancock2022exploring,
+  title={Exploring Area Under the Precision Recall Curve and Random Undersampling to Classify Imbalanced Big Data},
+  author={Hancock, John and Khoshgoftaar, Taghi M and Johnson, Justin M},
+  booktitle={Proceedings of the 27th ISSAT International Conference on Reliability and Quality in Design},
+  pages={111--116},
+  year={2022},
+  organization={IEEE}
+}
+
+
+Conference: CIC 22 (pending publication)
+@inproceedings{hancock2022comparative,
+  title={A Comparative Approach to Threshold Optimization for Classifying Imbalanced Data},
+  author={Hancock, John and Khoshgoftaar, Taghi M and Johnson, Justin M},
+  booktitle={The International Conference on Collaboration and Internet Computing (CIC)},
+  year={2022},
+  organization={IEEE}
+}
+
+manuscript location: /home/jthancoc/git/2022-spring/rus-experiments/auc-auprc-compare-conf.tex
+Conference: ICMLA 22 (pending publication)
+@inproceedings{hancock2021informative,
+  title={Informative Evaluation Metrics for Highly Imbalanced Big Data Classification},
+  author={Hancock, John and Khoshgoftaar, Taghi M and Johnson, Justin M},
+  booktitle={2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)},
+  year={2022},
+  organization={IEEE}
+}
+
+
+
+Survey
+@article{hancock2020survey,
+  title={Survey on categorical data for neural networks},
+  author={Hancock, John T and Khoshgoftaar, Taghi M},
+  journal={Journal of Big Data},
+  volume={7},
+  number={1},
+  pages={1--41},
+  year={2020},
+  publisher={SpringerOpen}
+}
+
+Conference: ICMLA 20
+@inproceedings{hancock2020performance,
+  title={Performance of catboost and xgboost in medicare fraud detection},
+  author={Hancock, John and Khoshgoftaar, Taghi M},
+  booktitle={2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA)},
+  pages={572--579},
+  year={2020},
+  organization={IEEE}
+}
+
+Survey
+@article{hancock2020catboost,
+  title={CatBoost for big data: an interdisciplinary review},
+  author={Hancock, John T and Khoshgoftaar, Taghi M},
+  journal={Journal of big data},
+  volume={7},
+  number={1},
+  pages={1--45},
+  year={2020},
+  publisher={Springer}
+}
+
+2020 IRI Expansion Expansion
+@article{hancock2021gradient,
+  title={Gradient boosted decision tree algorithms for medicare fraud detection},
+  author={Hancock, John T and Khoshgoftaar, Taghi M},
+  journal={SN Computer Science},
+  volume={2},
+  number={4},
+  pages={1--12},
+  year={2021},
+  publisher={Springer}
+}
+
+Conference: IRI 2020
+@inproceedings{hancock2020medicare,
+  title={Medicare fraud detection using catboost},
+  author={Hancock, John and Khoshgoftaar, Taghi M},
+  booktitle={2020 IEEE 21st international conference on information reuse and integration for data science (IRI)},
+  pages={97--103},
+  year={2020},
+  organization={IEEE}
+}
+
+Conference: BDS 2021
+@inproceedings{hancock2021leveraging,
+  title={Leveraging lightgbm for categorical big data},
+  author={Hancock, John and Khoshgoftaar, Taghi M},
+  booktitle={2021 IEEE Seventh International Conference on Big Data Computing Service and Applications (BigDataService)},
+  pages={149--154},
+  year={2021},
+  organization={IEEE}
+}
+
+2021 IRI Expansion
+@article{hancock2022hyperparameter,
+  title={Hyperparameter Tuning for Medicare Fraud Detection in Big Data},
+  author={Hancock, John T and Khoshgoftaar, Taghi M},
+  journal={SN Computer Science},
+  volume={3},
+  number={6},
+  pages={1--13},
+  year={2022},
+  publisher={Springer}
+}
+
+Conference: IRI 2022
+@inproceedings{hancock2022optimizing,
+  title={Optimizing Ensemble Trees for Big Data Healthcare Fraud Detection},
+  author={Hancock, John and Khoshgoftaar, Taghi M},
+  booktitle={2022 IEEE 23rd International Conference on Information Reuse and Integration for Data Science (IRI)},
+  pages={243--249},
+  year={2022},
+  organization={IEEE}
+}
+
+Conference: IRI 2021 AIHC
+@inproceedings{hancock2021impact,
+  title={Impact of Hyperparameter Tuning in Classifying Highly Imbalanced Big Data},
+  author={Hancock, John and Khoshgoftaar, Taghi M},
+  booktitle={2021 IEEE 22nd International Conference on Information Reuse and Integration for Data Science (IRI)},
+  pages={348--354},
+  year={2021},
+  organization={IEEE}
+}
