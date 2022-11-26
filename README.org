@@ -35,7 +35,7 @@ Conference: CIC 22 (pending publication)
   organization={IEEE}
 }
 
-manuscript location: [[/home/jthancoc/git/2022-spring/rus-experiments/auc-auprc-compare-conf.tex][auc-auprc-compare-conf.tex]]
+manuscript location: [[file:~/git/2022-spring/rus-experiments/auc-auprc-compare-conf.tex][auc-auprc-compare-conf.tex]]
 Conference: ICMLA 22 (pending publication)
 @inproceedings{hancock2021informative,
   title={Informative Evaluation Metrics for Highly Imbalanced Big Data Classification},
