@@ -4,7 +4,7 @@ data on publications to be compiled in PhD dissertation
 * publication list
 
   manuscript location and name of conference precede bibtex data on publication
-`
+
   Conference: BDS / CISOSE 22
 @inproceedings{hancock2022effects,
   title={The Effects of Random Undersampling for Big Data Medicare Fraud Detection},
@@ -145,4 +145,3 @@ Conference: IRI 2021 AIHC
   year={2021},
   organization={IEEE}
 }
-`
