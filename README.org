@@ -126,6 +126,7 @@ Conference: BDS 2021
 }
 
 Conference: IRI 2022
+manuscript location [[/home/jthancoc/git/2022-spring/rf-xgb-conf-paper/rf-xgb-conf-paper.tex][/home/jthancoc/git/2022-spring/rf-xgb-conf-paper/rf-xgb-conf-paper.tex]]
 @inproceedings{hancock2022optimizing,
   title={Optimizing Ensemble Trees for Big Data Healthcare Fraud Detection},
   author={Hancock, John and Khoshgoftaar, Taghi M},
