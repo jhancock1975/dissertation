@@ -25,6 +25,16 @@ Conference: ISSAT 22
   organization={IEEE}
 }
 
+Conference: ISSAT 21
+@inproceedings{hancock2021estatistical,
+  title={Statistical Significance of Hyperparameter Tuning for Varying Levels of Class
+Imbalance},
+  author={Hancock, John and Khoshgoftaar, Taghi M and Landset, Sara},
+  booktitle={Proceedings of the 26th ISSAT International Conference on Reliability and Quality in Design},
+  pages={155--158},
+  year={2021},
+  organization={IEEE}
+}
 
 Conference: CIC 22 (pending publication)
 @inproceedings{hancock2022comparative,
