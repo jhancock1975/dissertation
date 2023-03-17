@@ -25,7 +25,7 @@ Conference: ISSAT 22
   organization={IEEE}
 }
 
-Conference: ISSAT 21
+Conference: ISSAT 21, paper uses the cognition data
 @inproceedings{hancock2021estatistical,
   title={Statistical Significance of Hyperparameter Tuning for Varying Levels of Class
 Imbalance},
