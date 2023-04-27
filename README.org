@@ -36,6 +36,7 @@ Imbalance},
   organization={IEEE}
 }
 
+manuscript location: git/CMS-2019-Preprocessing/jh-exps/thresholding-conf-paper.tex
 Conference: CIC 22 (pending publication)
 @inproceedings{hancock2022comparative,
   title={A Comparative Approach to Threshold Optimization for Classifying Imbalanced Data},
