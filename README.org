@@ -24,6 +24,18 @@ location ~/git/2023-spring/one-class/credit-shap-feat-sel-paper/credit-shap-feat
   organization={IEEE}
 }
 
+location ~/git/2022-spring/j-big-data-2019-medicare/j-big-data-2019-medicare.tex
+@article{hancock2023evaluating,
+  title={Evaluating classifier performance with highly imbalanced Big Data},
+  author={Hancock, John T and Khoshgoftaar, Taghi M and Johnson, Justin M},
+  journal={Journal of Big Data},
+  volume={10},
+  number={1},
+  pages={42},
+  year={2023},
+  publisher={Springer}
+}
+
 location ~/git/2023-spring/j-big-data-medicare/
 @article{hancock2023explainable,
   title={Explainable Machine Learning Models for Medicare Fraud Detection},
