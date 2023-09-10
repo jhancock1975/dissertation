@@ -5,6 +5,15 @@ data on publications to be compiled in PhD dissertation
 
   manuscript location and name of conference precede bibtex data on publication
 
+location ~/git/2023-spring/one-class/credit-shap-feat-sel-paper/credit-shap-feat-sel-paper.tex
+@inproceedings{hancock2023model,
+  title={A Model-Agnostic Feature Selection Technique to Improve the Performance of One-Class Classifiers},
+  author={Hancock, John T and Bauder, Richard A and Khoshgoftaar, Taghi M},
+  booktitle={2023 IEEE 35th International Conference on Tools with Artificial Intelligence (ICTAI)},
+  year={2023},
+  organization={IEEE}
+}
+
 location ~/git/2023-spring/j-big-data-medicare/
 @article{hancock2023explainable,
   title={Explainable Machine Learning Models for Medicare Fraud Detection},
