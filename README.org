@@ -5,6 +5,15 @@ data on publications to be compiled in PhD dissertation
 
   manuscript location and name of conference precede bibtex data on publication
 
+location ~/git/2023-spring/j-big-data-medicare/
+@article{hancock2023explainable,
+  title={Explainable Machine Learning Models for Medicare Fraud Detection},
+  author={Hancock, John T and Khoshgoftaar, Taghi M},
+  journal={Journal of Big Data},
+  year={2023},
+  publisher={SpringerOpen}
+}
+
   Conference: BDS / CISOSE 22
 @inproceedings{hancock2022effects,
   title={The Effects of Random Undersampling for Big Data Medicare Fraud Detection},
