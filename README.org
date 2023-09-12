@@ -45,6 +45,19 @@ location ~/git/2023-spring/j-big-data-medicare/
   publisher={SpringerOpen}
 }
 
+location ~/git/jthancoc/2022-spring/rf-xgb-conf-paper/iri-2022-expansion/not-submittable-hancock-iri-2022-sn-article.tex
+@article{hancock2023exploring,
+  title={Exploring Maximum Tree Depth and Random Undersampling in Ensemble Trees to Optimize the Classification of Imbalanced Big Data},
+  author={Hancock III, John T and Khoshgoftaar, Taghi M},
+  journal={SN Computer Science},
+  volume={4},
+  number={5},
+  pages={462},
+  year={2023},
+  publisher={Springer}
+}
+
+
   Conference: BDS / CISOSE 22
 @inproceedings{hancock2022effects,
   title={The Effects of Random Undersampling for Big Data Medicare Fraud Detection},
