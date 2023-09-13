@@ -5,6 +5,15 @@ data on publications to be compiled in PhD dissertation
 
   manuscript location and name of conference precede bibtex data on publication
 
+location ~/git/2022-spring/rus-experiments/issat-2022-expansion/hancock-issat-2022-expansion.tex
+pending publication
+@article{hancock2022using,
+  title={Using Area Under the Precision Recall Curve to Assess the Effect of Random Undersampling in the Classification of Imbalanced Medicare Big Data},
+  author={Hancock, John T and Khoshgoftaar, Taghi M, and Johnson, Justin M},
+  journal={International Journal of Reliability, Quality and Safety Engineering},
+  publisher={World Scientific}
+}
+
 manuscript location: /home/jthancoc/git/2023-spring/one-class/sampling-paper/sampling-paper.tex
 Conference: ICMLA 23
 @inproceedings{hancock2023informative,
