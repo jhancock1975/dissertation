@@ -4,6 +4,15 @@ data on publications to be compiled in PhD dissertation
 * publication list
 
   manuscript location and name of conference precede bibtex data on publication
+location /home/jthancoc/git/2023-spring/Paper Medicare Fraud Detection SFS then RUS/expansion/data-reduction.tex
+under review
+@article{hancock2023data,
+  title={Data Reduction Techniques for Highly Imbalanced Medicare Big Data},
+  author={Hancock, John T and Wang, Huanjing and Khoshgoftaar, Taghi M and Liang, Qianxin},
+  journal={Journal of Big Data},
+  year={2023},
+  publisher={Springer}
+}
 
 location ~/git/2022-spring/rus-experiments/issat-2022-expansion/hancock-issat-2022-expansion.tex
 pending publication
@@ -46,6 +55,7 @@ location ~/git/2022-spring/j-big-data-2019-medicare/j-big-data-2019-medicare.tex
 }
 
 location ~/git/2023-spring/j-big-data-medicare/
+accepted
 @article{hancock2023explainable,
   title={Explainable Machine Learning Models for Medicare Fraud Detection},
   author={Hancock, John T and Khoshgoftaar, Taghi M},
